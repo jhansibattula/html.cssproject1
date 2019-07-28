@@ -1,0 +1,90 @@
+h2{
+    
+    font-family: 'Great Vibes';
+    font-size: 60px;
+    text-align: center;
+    font-weight: lighter
+
+}
+
+.article2{
+    
+    border:1px solid black;
+    padding: 10px; 
+    width: 40%
+  
+}
+
+.article1{
+  
+    border: 1px solid black;
+    padding: 10px;
+    width: 30%
+
+}
+ .article3{
+    border: 1px solid black;
+    padding: 10px;
+    width: 30%
+    
+}
+.row{
+    display: flex;
+}
+.img{
+    width: 100%;
+    align-items: stretch
+}
+.bottom{
+    display: flex;
+    
+
+}
+.total{
+    border: 1px solid black;
+}
+.article4{
+    padding: 10px;
+    border: 1px 1px 1px 1px;
+    border: solid black;
+    width: 30%
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+   
+    
+   
+}
+.item{
+    width: 70%
+}
+.navitem{
+    flex: 1;
+    width: 100%;
+}
+.navitem:nth-child(1){
+background-color: #ffeaa7;
+width: 100%;
+font-size: 30px
+}
+.navitem:nth-child(2){
+    background-color: #81ecec ;
+    font-size: 30px}
+.navitem:nth-child(3){
+    background-color: #55efc4 ;
+    font-size: 30px
+}
+
+.navitem:nth-child(4){
+    background-color: #74b9ff;
+    font-size: 30px
+}
+ .navitem:nth-child(5){
+  background-color: #ffeaa7;
+  font-size: 30px
+}
+h3{ 
+   font-family: 'Times New Roman', Times, serif
+}
